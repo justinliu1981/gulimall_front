@@ -149,7 +149,6 @@ import AddOrUpdate from "./brand-add-or-update";
 export default {
   data() {
     return {
-      
       dataForm: {
         key: ""
       },
